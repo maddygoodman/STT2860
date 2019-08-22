@@ -1,2 +1,2 @@
 # STT2860
-primary repo for data science 
+primary repo for intro to data management and visualization
